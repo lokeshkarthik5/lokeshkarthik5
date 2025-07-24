@@ -43,8 +43,7 @@ I'm open to collaborating on:
 
 ### 📫 Reach Me At
 
-- 🔗 [My Website](https://www.lokeshkarthik.dev) <!-- Update this link if needed -->
-- 📨 Email: lokeshkarthik5@gmail.com  
+- 🔗 [My Website](https://loks.bearblog.dev/) <!-- Update this link if needed -->
 - 🐦 Twitter: [@lokeshkarthik5](https://twitter.com/lokeshkarthik5)
 
 ---
@@ -52,4 +51,4 @@ I'm open to collaborating on:
 ### ⚡ Fun Fact
 
 I'm building products faster than I can name them 🚀  
-Also, I believe the best dev tools feel like magic 🪄
+Also, I study physics 👀
