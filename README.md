@@ -17,19 +17,10 @@ I'm a full-stack developer, AI tinkerer, and builder of things that (hopefully) 
 
 - TinyML and deploying AI at the edge  
 - Embedded systems + control logic  
-- Multi-agent coordination using LLMs  
+- Easy fine-tuning and memory layer for LLMs
 - Building smarter drones (software + hardware)  
 - Ultra-low-latency infra for real-time applications  
 - Training AI models on a budget (because GPUs aren't cheap!)
-
----
-
-### 🤝 Looking to Collaborate On
-
-- Open-source AI infra/tools  
-- Dev tools or products that actually solve real pain points  
-- Bootstrapped SaaS projects with clear user value  
-- Anything that mixes creativity + code
 
 ---
 
