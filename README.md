@@ -10,6 +10,7 @@ I'm a full-stack developer, AI tinkerer, and builder of things that (hopefully) 
 - ⚙️ Backend systems that are fast, scalable, and production-ready  
 - 📱 React Native apps that feel smooth and natural (Shipped two)
 - 🤖 Tools that blend AI with real-world utility
+- ⚒︎  Working with embedded systems 
 
 ---
 
