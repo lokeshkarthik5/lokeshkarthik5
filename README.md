@@ -37,8 +37,7 @@ I'm a full-stack developer, AI tinkerer, and builder of things that (hopefully) 
 ### 📫 Reach Me
 
 - 📝 Blog: [loks.bearblog.dev](https://loks.bearblog.dev)  
-- 🐦 Twitter: [@lokeshkarthik5](https://twitter.com/lokeshkarthik5)  
-- ✉️ DM or email—I'm usually around
+- 🐦 Twitter: [@lokeshkarthik5](https://twitter.com/lokeshkarthik5) 
 
 ---
 
