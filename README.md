@@ -45,4 +45,6 @@ I'm a full-stack developer, AI tinkerer, and builder of things that (hopefully) 
 
 - I ship faster than I name projects  
 - I study physics when I’m not coding  
-- I’m endlessly curious—about systems, people, space, and how things work  
+- I’m endlessly curious—about systems, people, space, and how things work
+- Getting back into PCB design  
+
