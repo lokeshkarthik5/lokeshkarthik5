@@ -22,6 +22,7 @@ I'm a full-stack developer, AI tinkerer, and builder of things that (hopefully) 
 - Building smarter drones (software + hardware)  
 - Ultra-low-latency infra for real-time applications  
 - Training AI models on a budget (because GPUs aren't cheap!)
+- Tinkering some hardware stuff
 
 ---
 
