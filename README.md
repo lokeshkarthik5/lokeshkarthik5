@@ -1,5 +1,5 @@
 
-### You can just build stuff 🚀
+ 🚀
 
 - Aspiring polymath
 
