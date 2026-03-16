@@ -1,5 +1,5 @@
 
- 🚀
+- Curious 
 
 - Aspiring polymath
 
