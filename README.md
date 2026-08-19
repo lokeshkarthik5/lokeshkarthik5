@@ -5,4 +5,4 @@
 
 
 - 📝 Blog: [loks.bearblog.dev](https://loks.bearblog.dev)  
-- 🐦 Twitter: [@lokeshkarthik5](https://twitter.com/lokeshkarthik5) 
+- 🐦 Twitter: [@lokeshkarthik5](https://x.com/LokeshKarthikS) 
